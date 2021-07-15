@@ -1,1 +1,2 @@
-# project30
+# zombie-crush-assets
+assests for crush the zombie game
